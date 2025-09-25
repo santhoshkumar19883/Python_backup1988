@@ -103,7 +103,7 @@ for i in a.values():
 for v,w in a.items():
     if w==b:
         print (v,w)
-min_val = 0
+min_val = a["santhosh"]
 for j in a.values():
     if j<min_val:
         min_val=j
